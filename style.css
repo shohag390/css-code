@@ -3,3 +3,33 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.external {
+    background-color: black;
+    color: tomato;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.heading {
+    color: tomato;
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.paragraph {
+    color: gray;
+    text-align: center;
+    font-family: cursive;
+}
+
+.menu {
+    text-align: center;
+    list-style: none;
+    padding: 20px;
+}
+
+.list {
+    padding-top: 8px;
+}
